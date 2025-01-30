@@ -1,0 +1,96 @@
+{
+	"id": "Global_Portal_MenuGroup_Role",
+	"orderSequence": 3,
+	"objects": [
+		{
+			"id": "Global_Portal_MenuGroup_Role_Admin_Dashboard",
+			"type": "org.sponsor.form.role.entities.menus.EOUserRoleMenuGroup",
+			"name": "Global_Portal_MenuGroup_Role",
+			"properties": {
+				"idenNo": "Global_Portal_MenuGroup_Role_Admin_Dashboard",
+				"userRoleName": "ADMIN",
+				"menuGroup": "LK@Global_Portal_MenuGroup_Dashboard"
+			}
+		},
+		{
+			"id": "Global_Portal_MenuGroup_Role_Admin_Sponsor",
+			"type": "org.sponsor.form.role.entities.menus.EOUserRoleMenuGroup",
+			"name": "Global_Portal_MenuGroup_Role",
+			"properties": {
+				"idenNo": "Global_Portal_MenuGroup_Role_Admin_Sponsor",
+				"userRoleName": "ADMIN",
+				"menuGroup": "LK@Global_Portal_MenuGroup_Sponsor"
+			}
+		},
+		{
+			"id": "Global_Portal_MenuGroup_Role_Admin_Level",
+			"type": "org.sponsor.form.role.entities.menus.EOUserRoleMenuGroup",
+			"name": "Global_Portal_MenuGroup_Role",
+			"properties": {
+				"idenNo": "Global_Portal_MenuGroup_Role_Admin_Level",
+				"userRoleName": "ADMIN",
+				"menuGroup": "LK@Global_Portal_MenuGroup_Level"
+			}
+		},
+		{
+			"id": "Global_Portal_MenuGroup_Role_Admin_Activity",
+			"type": "org.sponsor.form.role.entities.menus.EOUserRoleMenuGroup",
+			"name": "Global_Portal_MenuGroup_Role",
+			"properties": {
+				"idenNo": "Global_Portal_MenuGroup_Role_Admin_Activity",
+				"userRoleName": "ADMIN",
+				"menuGroup": "LK@Global_Portal_MenuGroup_Activity"
+			}
+		},
+		{
+			"id": "Global_Portal_MenuGroup_Role_Admin_Boast",
+			"type": "org.sponsor.form.role.entities.menus.EOUserRoleMenuGroup",
+			"name": "Global_Portal_MenuGroup_Role",
+			"properties": {
+				"idenNo": "Global_Portal_MenuGroup_Role_Admin_Boast",
+				"userRoleName": "ADMIN",
+				"menuGroup": "LK@Global_Portal_MenuGroup_Boast"
+			}
+		},
+		{
+			"id": "Global_Portal_MenuGroup_Role_Admin_Royalty",
+			"type": "org.sponsor.form.role.entities.menus.EOUserRoleMenuGroup",
+			"name": "Global_Portal_MenuGroup_Role",
+			"properties": {
+				"idenNo": "Global_Portal_MenuGroup_Role_Admin_Royalty",
+				"userRoleName": "ADMIN",
+				"menuGroup": "LK@Global_Portal_MenuGroup_Royalty"
+			}
+		},
+		{
+			"id": "Global_Portal_MenuGroup_Role_Admin_Financial",
+			"type": "org.sponsor.form.role.entities.menus.EOUserRoleMenuGroup",
+			"name": "Global_Portal_MenuGroup_Role",
+			"properties": {
+				"idenNo": "Global_Portal_MenuGroup_Role_Admin_Financial",
+				"userRoleName": "ADMIN",
+				"menuGroup": "LK@Global_Portal_MenuGroup_Financial"
+			}
+		},
+		{
+			"id": "Global_Portal_MenuGroup_Role_Admin_Account",
+			"type": "org.sponsor.form.role.entities.menus.EOUserRoleMenuGroup",
+			"name": "Global_Portal_MenuGroup_Role",
+			"properties": {
+				"idenNo": "Global_Portal_MenuGroup_Role_Admin_Account",
+				"userRoleName": "ADMIN",
+				"menuGroup": "LK@Global_Portal_MenuGroup_Account"
+			}
+		},
+		{
+			"id": "Global_Portal_MenuGroup_Role_Admin_Users",
+			"type": "org.sponsor.form.role.entities.menus.EOUserRoleMenuGroup",
+			"name": "Global_Portal_MenuGroup_Role",
+			"properties": {
+				"idenNo": "Global_Portal_MenuGroup_Role_Admin_Users",
+				"userRoleName": "ADMIN",
+				"menuGroup": "LK@Global_Portal_MenuGroup_Users"
+			}
+		}
+	]
+}

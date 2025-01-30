@@ -1,0 +1,98 @@
+{
+	"id": "User_Portal_MenuGroup",
+	"type": "org.sponsor.form.view.entities.menus.EOViewMenuGroup",
+	"orderSequence": 2,
+	"objects": [
+		{
+			"id": "User_Portal_MenuGroup_Dashboard",
+			"type": "org.sponsor.form.view.entities.menus.EOViewMenuGroup",
+			"name": "User_Portal_MenuGroup",
+			"properties": {
+				"title": "Dashboard",
+				"idenNo": "User_Portal_MenuGroup_Dashboard",
+				"type": "group",
+				"icon": "Dashboard",
+				"orderSequence": 1.0,
+				"url": "/user/portal/dashboard"
+			}
+		},
+		{
+			"id": "User_Portal_MenuGroup_Sponsor",
+			"type": "org.sponsor.form.view.entities.menus.EOViewMenuGroup",
+			"name": "User_Portal_MenuGroup",
+			"properties": {
+				"title": "Sponsor",
+				"idenNo": "User_Portal_MenuGroup_Sponsor",
+				"type": "group",
+				"icon": "Content",
+				"orderSequence": 2.0,
+				"url": "/user/portal/sponsor"
+			}
+		},
+		{
+			"id": "User_Portal_MenuGroup_Level",
+			"type": "org.sponsor.form.view.entities.menus.EOViewMenuGroup",
+			"name": "User_Portal_MenuGroup",
+			"properties": {
+				"title": "Level",
+				"idenNo": "User_Portal_MenuGroup_Level",
+				"type": "item",
+				"url": "/user/portal/level",
+				"icon": "Level",
+				"orderSequence": 3.0
+			}
+		},
+		{
+			"id": "User_Portal_MenuGroup_Boost",
+			"type": "org.sponsor.form.view.entities.menus.EOViewMenuGroup",
+			"name": "User_Portal_MenuGroup",
+			"properties": {
+				"title": "Boost",
+				"idenNo": "User_Portal_MenuGroup_Boost",
+				"type": "item",
+				"url": "/user/portal/boost",
+				"icon": "Boost",
+				"orderSequence": 4.0
+			}
+		},
+		{
+			"id": "User_Portal_MenuGroup_Royalty",
+			"type": "org.sponsor.form.view.entities.menus.EOViewMenuGroup",
+			"name": "User_Portal_MenuGroup",
+			"properties": {
+				"title": "Royalty",
+				"idenNo": "User_Portal_MenuGroup_Royalty",
+				"type": "item",
+				"url": "/user/portal/royalty",
+				"icon": "Royalty",
+				"orderSequence": 5.0
+			}
+		},
+		{
+			"id": "User_Portal_MenuGroup_Wallet",
+			"type": "org.sponsor.form.view.entities.menus.EOViewMenuGroup",
+			"name": "User_Portal_MenuGroup",
+			"properties": {
+				"title": "Wallet",
+				"idenNo": "User_Portal_MenuGroup_Wallet",
+				"type": "item",
+				"url": "/user/portal/wallet",
+				"icon": "Wallet",
+				"orderSequence": 6.0
+			}
+		},
+		{
+			"id": "User_Portal_MenuGroup_Account",
+			"type": "org.sponsor.form.view.entities.menus.EOViewMenuGroup",
+			"name": "User_Portal_MenuGroup",
+			"properties": {
+				"title": "Account",
+				"idenNo": "User_Portal_MenuGroup_Account",
+				"type": "item",
+				"url": "/user/portal/account",
+				"icon": "Account",
+				"orderSequence": 7.0
+			}
+		}
+	]
+}

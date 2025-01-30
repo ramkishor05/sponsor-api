@@ -1,0 +1,105 @@
+{
+	"id": "User_Portal_MenuItem",
+	"type": "org.sponsor.form.view.entities.menus.EOViewMenuItem",
+	"orderSequence": 2,
+	"objects": [
+		{
+			"id": "User_Portal_MenuItem_Dashboard",
+			"type": "org.sponsor.form.view.entities.menus.EOViewMenuItem",
+			"name": "User_Portal_MenuItem",
+			"properties": {
+				"title": "Dashboard",
+				"idenNo": "User_Portal_MenuItem_Dashboard",
+				"type": "item",
+				"url": "/user/portal/dashboard/default",
+				"icon": "Dashboard",
+				"orderSequence": 1.0,
+				"menuGroup": "LK@User_Portal_MenuGroup_Dashboard"
+			}
+		},
+		{
+			"id": "User_Portal_MenuItem_Sponsor",
+			"type": "org.sponsor.form.view.entities.menus.EOViewMenuItem",
+			"name": "User_Portal_MenuItem",
+			"properties": {
+				"title": "Sponsor",
+				"idenNo": "User_Portal_MenuItem_Sponsor",
+				"type": "item",
+				"url": "/user/portal/sponsor",
+				"icon": "Sponsor",
+				"orderSequence": 1.0,
+				"menuGroup": "LK@User_Portal_MenuGroup_Sponsor"
+			}
+		},
+		{
+			"id": "User_Portal_MenuItem_Level",
+			"type": "org.sponsor.form.view.entities.menus.EOViewMenuItem",
+			"name": "User_Portal_MenuItem",
+			"properties": {
+				"title": "Level",
+				"idenNo": "User_Portal_MenuItem_Level",
+				"type": "item",
+				"url": "/user/portal/level",
+				"icon": "Sponsor",
+				"orderSequence": 1.0,
+				"menuGroup": "LK@User_Portal_MenuGroup_Level"
+			}
+		},
+		{
+			"id": "User_Portal_MenuItem_Boost",
+			"type": "org.sponsor.form.view.entities.menus.EOViewMenuItem",
+			"name": "User_Portal_MenuItem",
+			"properties": {
+				"title": "Boost",
+				"idenNo": "User_Portal_MenuItem_Boost",
+				"type": "item",
+				"url": "/user/portal/boost",
+				"icon": "Boost",
+				"orderSequence": 1.0,
+				"menuGroup": "LK@User_Portal_MenuGroup_Boost"
+			}
+		},
+		{
+			"id": "User_Portal_MenuItem_Royalty",
+			"type": "org.sponsor.form.view.entities.menus.EOViewMenuItem",
+			"name": "User_Portal_MenuItem",
+			"properties": {
+				"title": "Royalty",
+				"idenNo": "User_Portal_MenuItem_Royalty",
+				"type": "item",
+				"url": "/user/portal/royalty",
+				"icon": "Royalty",
+				"orderSequence": 1.0,
+				"menuGroup": "LK@User_Portal_MenuGroup_Royalty"
+			}
+		},
+		{
+			"id": "User_Portal_MenuItem_Wallet",
+			"type": "org.sponsor.form.view.entities.menus.EOViewMenuItem",
+			"name": "User_Portal_MenuItem",
+			"properties": {
+				"title": "Wallet",
+				"idenNo": "User_Portal_MenuItem_Wallet",
+				"type": "item",
+				"url": "/user/portal/wallet",
+				"icon": "Wallet",
+				"orderSequence": 1.0,
+				"menuGroup": "LK@User_Portal_MenuGroup_Wallet"
+			}
+		},
+		{
+			"id": "User_Portal_MenuItem_Account",
+			"type": "org.sponsor.form.view.entities.menus.EOViewMenuItem",
+			"name": "User_Portal_MenuItem",
+			"properties": {
+				"title": "Account",
+				"idenNo": "User_Portal_MenuItem_Account",
+				"type": "item",
+				"url": "/user/portal/account",
+				"icon": "Account",
+				"orderSequence": 1.0,
+				"menuGroup": "LK@User_Portal_MenuGroup_Account"
+			}
+		}
+	]
+}

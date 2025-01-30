@@ -1,0 +1,84 @@
+{
+	"id": "User_Portal_MenuItem_Role",
+	"orderSequence": 3,
+	"objects": [
+		{
+			"id": "User_Portal_MenuItem_Role_USER_Dashboard",
+			"type": "org.sponsor.form.role.entities.menus.EOUserRoleMenuItem",
+			"name": "User_Portal_MenuItem_Role",
+			"properties": {
+				"idenNo": "User_Portal_MenuItem_Role_USER_Dashboard",
+				"userRoleName": "USER",
+				"menuItem": "LK@User_Portal_MenuItem_Dashboard",
+				"roleMenuGroup": "LK@User_Portal_MenuGroup_Role_USER_Dashboard",
+				"homePage": true
+			}
+		},
+		{
+			"id": "User_Portal_MenuItem_Role_USER_Role_Sponsor",
+			"type": "org.sponsor.form.role.entities.menus.EOUserRoleMenuItem",
+			"name": "User_Portal_MenuItem_Role",
+			"properties": {
+				"idenNo": "User_Portal_MenuItem_Role_USER_Role_Sponsor",
+				"userRoleName": "USER",
+				"menuItem": "LK@User_Portal_MenuItem_Sponsor",
+				"roleMenuGroup": "LK@User_Portal_MenuGroup_Role_USER_Sponsor"
+			}
+		},
+		{
+			"id": "User_Portal_MenuItem_Role_User_Role_Level",
+			"type": "org.sponsor.form.role.entities.menus.EOUserRoleMenuItem",
+			"name": "User_Portal_MenuItem_Role",
+			"properties": {
+				"idenNo": "User_Portal_MenuItem_Role_User_Role_Level",
+				"userRoleName": "USER",
+				"menuItem": "LK@User_Portal_MenuItem_Level",
+				"roleMenuGroup": "LK@User_Portal_MenuGroup_Role_User_Level"
+			}
+		},
+		{
+			"id": "User_Portal_MenuItem_Role_User_Role_Boost",
+			"type": "org.sponsor.form.role.entities.menus.EOUserRoleMenuItem",
+			"name": "User_Portal_MenuItem_Role",
+			"properties": {
+				"idenNo": "User_Portal_MenuItem_Role_User_Role_Boost",
+				"userRoleName": "USER",
+				"menuItem": "LK@User_Portal_MenuItem_Boost",
+				"roleMenuGroup": "LK@User_Portal_MenuGroup_Role_User_Boost"
+			}
+		},
+		{
+			"id": "User_Portal_MenuItem_Role_User_Role_Royalty",
+			"type": "org.sponsor.form.role.entities.menus.EOUserRoleMenuItem",
+			"name": "User_Portal_MenuItem_Role",
+			"properties": {
+				"idenNo": "User_Portal_MenuItem_Role_User_Role_Royalty",
+				"userRoleName": "USER",
+				"menuItem": "LK@User_Portal_MenuItem_Royalty",
+				"roleMenuGroup": "LK@User_Portal_MenuGroup_Role_User_Royalty"
+			}
+		},
+		{
+			"id": "User_Portal_MenuItem_Role_User_Role_Wallet",
+			"type": "org.sponsor.form.role.entities.menus.EOUserRoleMenuItem",
+			"name": "User_Portal_MenuItem_Role",
+			"properties": {
+				"idenNo": "User_Portal_MenuItem_Role_User_Role_Wallet",
+				"userRoleName": "USER",
+				"menuItem": "LK@User_Portal_MenuItem_Wallet",
+				"roleMenuGroup": "LK@User_Portal_MenuGroup_Role_User_Wallet"
+			}
+		},
+		{
+			"id": "User_Portal_MenuItem_Role_User_Role_Account",
+			"type": "org.sponsor.form.role.entities.menus.EOUserRoleMenuItem",
+			"name": "User_Portal_MenuItem_Role",
+			"properties": {
+				"idenNo": "User_Portal_MenuItem_Role_User_Role_Account",
+				"userRoleName": "USER",
+				"menuItem": "LK@User_Portal_MenuItem_Account",
+				"roleMenuGroup": "LK@User_Portal_MenuGroup_Role_User_Account"
+			}
+		}
+	]
+}

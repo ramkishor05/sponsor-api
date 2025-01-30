@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>unlimits</title>
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body
+    style="
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background: #ffffff;
+      font-size: 14px;
+    "
+  >
+    
+      <main>
+        <div
+          style="
+            margin: 0;
+            background: #ffffff;
+            text-align: justify;
+          "
+        >
+          <div>
+            <p><b>Hi <span th:utext="${name}"></span></b></p>
+
+
+			<p>Here is your temporary password <b th:utext="${password}"></b> to login into Unlimits App. </p>
+			
+			<p>Do not share this code with others. For security of your account, please update your password after login.</p>
+			
+			<p><b>Team Unlimits</b></p>
+            
+          </div>
+        </div>
+
+      </main>
+
+      <footer
+        style="
+          width: 100%;
+          max-width: 490px;
+          margin: 20px auto 0;
+          text-align: center;
+          border-top: 1px solid #e6ebf1;
+        "
+      >
+      </footer>
+  </body>
+</html>

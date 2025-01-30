@@ -1,0 +1,46 @@
+{
+	"id": "User_Portal_HeaderItem_Role",
+	"orderSequence": 3,
+	"objects": [
+		{
+			"id": "User_Portal_HeaderItem_Role_USER_SearchBox",
+			"type": "org.sponsor.form.role.entities.headers.EOUserRoleHeaderItem",
+			"name": "User_Portal_HeaderItem_Role",
+			"properties": {
+				"idenNo":"User_Portal_HeaderItem_Role_USER_SearchBox",
+				"userRoleName": "USER",
+				"headerItem": "LK@User_Portal_HeaderItem_SearchBox"
+			}
+		},
+		{
+			"id": "User_Portal_HeaderItem_Role_USER_UserOptions",
+			"type": "org.sponsor.form.role.entities.headers.EOUserRoleHeaderItem",
+			"name": "User_Portal_HeaderItem_Role",
+			"properties": {
+				"idenNo":"User_Portal_HeaderItem_Role_USER_UserOptions",
+				"userRoleName": "USER",
+				"headerItem": "LK@User_Portal_HeaderItem_UserOptions"
+			}
+		},
+		{
+			"id": "User_Portal_HeaderItem_Role_USER_ProfileSection",
+			"type": "org.sponsor.form.role.entities.headers.EOUserRoleHeaderItem",
+			"name": "User_Portal_HeaderItem_Role",
+			"properties": {
+				"idenNo":"User_Portal_HeaderItem_Role_USER_ProfileSection",
+				"userRoleName": "USER",
+				"headerItem": "LK@User_Portal_HeaderItem_ProfileSection"
+			}
+		},
+		{
+			"id": "User_Portal_HeaderItem_Role_USER_NotificationSection",
+			"type": "org.sponsor.form.role.entities.headers.EOUserRoleHeaderItem",
+			"name": "User_Portal_HeaderItem_Role",
+			"properties": {
+				"idenNo":"User_Portal_HeaderItem_Role_USER_NotificationSection",
+				"userRoleName": "USER",
+				"headerItem": "LK@User_Portal_HeaderItem_NotificationSection"
+			}
+		}
+	]
+}

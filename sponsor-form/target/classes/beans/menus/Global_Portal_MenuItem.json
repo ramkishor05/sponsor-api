@@ -1,0 +1,133 @@
+{
+	"id": "Global_Portal_MenuItem",
+	"type": "org.sponsor.form.view.entities.menus.EOViewMenuItem",
+	"orderSequence": 2,
+	"objects": [
+		{
+			"id": "Global_Portal_MenuItem_Dashboard",
+			"type": "org.sponsor.form.view.entities.menus.EOViewMenuItem",
+			"name": "Global_Portal_MenuItem",
+			"properties": {
+				"title": "Dashboard",
+				"idenNo": "Global_Portal_MenuItem_Dashboard",
+				"type": "item",
+				"url": "/global/dashboard/default",
+				"icon": "Dashboard",
+				"orderSequence": 1.0,
+				"menuGroup": "LK@Global_Portal_MenuGroup_Dashboard"
+			}
+		},
+		{
+			"id": "Global_Portal_MenuItem_Sponsor",
+			"type": "org.sponsor.form.view.entities.menus.EOViewMenuItem",
+			"name": "Global_Portal_MenuItem",
+			"properties": {
+				"title": "Sponsor",
+				"idenNo": "Global_Portal_MenuItem_Sponsor",
+				"type": "item",
+				"url": "/global/portal/sponsor",
+				"icon": "Sponsor",
+				"orderSequence": 1.0,
+				"menuGroup": "LK@Global_Portal_MenuGroup_Sponsor"
+			}
+		},
+		{
+			"id": "Global_Portal_MenuItem_Level",
+			"type": "org.sponsor.form.view.entities.menus.EOViewMenuItem",
+			"name": "Global_Portal_MenuItem",
+			"properties": {
+				"title": "Level",
+				"idenNo": "Global_Portal_MenuItem_Level",
+				"type": "item",
+				"url": "/global/portal/level",
+				"icon": "Level",
+				"orderSequence": 1.0,
+				"menuGroup": "LK@Global_Portal_MenuGroup_Level"
+			}
+		},
+		{
+			"id": "Global_Portal_MenuItem_Activity",
+			"type": "org.sponsor.form.view.entities.menus.EOViewMenuItem",
+			"name": "Global_Portal_MenuItem",
+			"properties": {
+				"title": "Activity",
+				"idenNo": "Global_Portal_MenuItem_Activity",
+				"type": "item",
+				"url": "/global/portal/activity",
+				"icon": "Activity",
+				"orderSequence": 1.0,
+				"menuGroup": "LK@Global_Portal_MenuGroup_Activity"
+			}
+		},
+		{
+			"id": "Global_Portal_MenuItem_Boost",
+			"type": "org.sponsor.form.view.entities.menus.EOViewMenuItem",
+			"name": "Global_Portal_MenuItem",
+			"properties": {
+				"title": "Boast",
+				"idenNo": "Global_Portal_MenuItem_Boost",
+				"type": "item",
+				"url": "/global/portal/boost",
+				"icon": "Boost",
+				"orderSequence": 1.0,
+				"menuGroup": "LK@Global_Portal_MenuGroup_Boost"
+			}
+		},
+		{
+			"id": "Global_Portal_MenuItem_Royalty",
+			"type": "org.sponsor.form.view.entities.menus.EOViewMenuItem",
+			"name": "Global_Portal_MenuItem",
+			"properties": {
+				"title": "Royalty",
+				"idenNo": "Global_Portal_MenuItem_Royalty",
+				"type": "item",
+				"url": "/global/portal/royalty",
+				"icon": "Royalty",
+				"orderSequence": 1.0,
+				"menuGroup": "LK@Global_Portal_MenuGroup_Royalty"
+			}
+		},
+		{
+			"id": "Global_Portal_MenuItem_Financial",
+			"type": "org.sponsor.form.view.entities.menus.EOViewMenuItem",
+			"name": "Global_Portal_MenuItem",
+			"properties": {
+				"title": "Financial",
+				"idenNo": "Global_Portal_MenuItem_Financial",
+				"type": "item",
+				"url": "/global/portal/financial",
+				"icon": "Financial",
+				"orderSequence": 1.0,
+				"menuGroup": "LK@Global_Portal_MenuGroup_Financial"
+			}
+		},
+		{
+			"id": "Global_Portal_MenuItem_Account",
+			"type": "org.sponsor.form.view.entities.menus.EOViewMenuItem",
+			"name": "Global_Portal_MenuItem",
+			"properties": {
+				"title": "Account",
+				"idenNo": "Global_Portal_MenuItem_Account",
+				"type": "item",
+				"url": "/global/portal/account",
+				"icon": "Account",
+				"orderSequence": 1.0,
+				"menuGroup": "LK@Global_Portal_MenuGroup_Account"
+			}
+		},
+		{
+			"id": "Global_Portal_MenuItem_Users",
+			"type": "org.sponsor.form.view.entities.menus.EOViewMenuItem",
+			"name": "Global_Portal_MenuItem",
+			"properties": {
+				"title": "Users",
+				"idenNo": "Global_Portal_MenuItem_Users",
+				"type": "item",
+				"url": "/global/portal/users",
+				"icon": "Users",
+				"orderSequence": 1.0,
+				"menuGroup": "LK@Global_Portal_MenuGroup_Users"
+			}
+		}
+	]
+}

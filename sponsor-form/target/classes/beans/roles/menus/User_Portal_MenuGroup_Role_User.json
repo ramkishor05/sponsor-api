@@ -1,0 +1,76 @@
+{
+	"id": "User_Portal_MenuGroup_Role",
+	"orderSequence": 3,
+	"objects": [
+		{
+			"id": "User_Portal_MenuGroup_Role_USER_Dashboard",
+			"type": "org.sponsor.form.role.entities.menus.EOUserRoleMenuGroup",
+			"name": "User_Portal_MenuGroup_Role",
+			"properties": {
+				"idenNo": "User_Portal_MenuGroup_Role_USER_Dashboard",
+				"userRoleName": "USER",
+				"menuGroup": "LK@User_Portal_MenuGroup_Dashboard"
+			}
+		},
+		{
+			"id": "User_Portal_MenuGroup_Role_USER_Sponsor",
+			"type": "org.sponsor.form.role.entities.menus.EOUserRoleMenuGroup",
+			"name": "User_Portal_MenuGroup_Role",
+			"properties": {
+				"idenNo": "User_Portal_MenuGroup_Role_USER_Sponsor",
+				"userRoleName": "USER",
+				"menuGroup": "LK@User_Portal_MenuGroup_Sponsor"
+			}
+		},
+		{
+			"id": "User_Portal_MenuGroup_Role_User_Level",
+			"type": "org.sponsor.form.role.entities.menus.EOUserRoleMenuGroup",
+			"name": "User_Portal_MenuGroup_Role",
+			"properties": {
+				"idenNo": "User_Portal_MenuGroup_Role_User_Level",
+				"userRoleName": "USER",
+				"menuGroup": "LK@User_Portal_MenuGroup_Level"
+			}
+		},
+		{
+			"id": "User_Portal_MenuGroup_Role_User_Boost",
+			"type": "org.sponsor.form.role.entities.menus.EOUserRoleMenuGroup",
+			"name": "User_Portal_MenuGroup_Role",
+			"properties": {
+				"idenNo": "User_Portal_MenuGroup_Role_User_Boost",
+				"userRoleName": "USER",
+				"menuGroup": "LK@User_Portal_MenuGroup_Boost"
+			}
+		},
+		{
+			"id": "User_Portal_MenuGroup_Role_User_Royalty",
+			"type": "org.sponsor.form.role.entities.menus.EOUserRoleMenuGroup",
+			"name": "User_Portal_MenuGroup_Role",
+			"properties": {
+				"idenNo": "User_Portal_MenuGroup_Role_User_Royalty",
+				"userRoleName": "USER",
+				"menuGroup": "LK@User_Portal_MenuGroup_Royalty"
+			}
+		},
+		{
+			"id": "User_Portal_MenuGroup_Role_User_Wallet",
+			"type": "org.sponsor.form.role.entities.menus.EOUserRoleMenuGroup",
+			"name": "User_Portal_MenuGroup_Role",
+			"properties": {
+				"idenNo": "User_Portal_MenuGroup_Role_User_Wallet",
+				"userRoleName": "USER",
+				"menuGroup": "LK@User_Portal_MenuGroup_Wallet"
+			}
+		},
+		{
+			"id": "User_Portal_MenuGroup_Role_User_Account",
+			"type": "org.sponsor.form.role.entities.menus.EOUserRoleMenuGroup",
+			"name": "User_Portal_MenuGroup_Role",
+			"properties": {
+				"idenNo": "User_Portal_MenuGroup_Role_User_Account",
+				"userRoleName": "USER",
+				"menuGroup": "LK@User_Portal_MenuGroup_Account"
+			}
+		}
+	]
+}
